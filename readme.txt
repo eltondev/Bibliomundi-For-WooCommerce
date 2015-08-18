@@ -8,6 +8,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
+
 Desde criança, contar histórias faz parte da sua vida. Junto com você, suas histórias evoluíram e com elas a forma de contá-las. Para ajudar nessa evolução criamos a Bibliomundi e tudo ficou mais fácil.
 
 Tenha aceso a todas as informações sobre seus livros, saiba quem são seus leitores e onde seus livros estão sendo lidos. Promova seu livro, cadastre promoções e distribua para todo o Brasil e o Mundo. Então, está esperando o que para ser o próximo best-seller?
@@ -17,10 +18,12 @@ Tenha aceso a todas as informações sobre seus livros, saiba quem são seus lei
 = Dúvidas? =
 
 = Coloborar =
+
 Você pode contribuir com código-fonte em nossa página no [GitHub](https://github.com/eltondev/Bibliomundi-For-WooCommerce).
 
 == Installation ==
 = Instalação =
+
 * Envie os arquivos do plugin para a pasta wp-content/plugins, ou instale usando o instalador de plugins do WordPress;
 * Ative o plugin;
 
@@ -43,6 +46,7 @@ Você pode contribuir com código-fonte em nossa página no [GitHub](https://git
 == Changelog ==
 
 = 1.0.1 =
+
 * Correção do envio dos dados de produtos.
 * Correção da exibição dos erros da API.
 * Correção do campo de número do pedido.
@@ -51,6 +55,7 @@ Você pode contribuir com código-fonte em nossa página no [GitHub](https://git
 == Upgrade Notice ==
 
 = 1.0.0 =
+
 * Initial release.
 
 == License ==
